@@ -10,6 +10,6 @@ The initial preview uses `noindex, nofollow, noarchive` and `robots.txt` to requ
 2. Upload the contents of this `site/` directory to the repository root.
 3. In GitHub: **Settings → Pages → Deploy from a branch → main / (root)**.
 4. The public URL will be `https://<GitHub-user-name>.github.io/kurashi-work-lab/`.
-5. Create the GA4 Web data stream with that exact URL, replace `G-XXXXXXXXXX` in `index.html`, and republish.
+5. GA4 Web stream is configured with measurement ID `G-95B5JYNTE8`; keep this ID on every published HTML page.
 
 Do not add affiliate URLs until their program terms, disclosure text, and the individual recommendation have been reviewed.
